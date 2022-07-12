@@ -18,4 +18,5 @@
 - Html
 - CSS
 ## My Project
-- This site was built using [GitHub Pages](https://pages.github.com/)
+User can mint, buy, sell NFTs.
+- Project Link [GitHub Pages](https://pages.github.com/)
