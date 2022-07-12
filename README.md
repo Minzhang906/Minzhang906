@@ -6,7 +6,7 @@
 - 👀 I'm looking to collaborate with other people.
 
 ## Connect With me
-- Let's have a talk on Discord !!! Use Name: Mia, tag: #1710
+- ![discord](/assets/images/unnamed.png)Let's have a talk on Discord !!! Use Name: Mia, tag: #1710
 - 📬 Email: zhangm9220@gmail.com
 
 ## Technology Stack
