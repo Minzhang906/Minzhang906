@@ -1,13 +1,19 @@
-### Hi there 👋, I am Mia Zhang
+# Hi there 👋, I am Mia Zhang
 
 
 
-Here are some ideas to get you started:
+- 🐱‍🏍 I’m currently learning Cryptocurrency frontend and backend development.
+- 👀 I'm looking to collaborate with other people.
 
-- 🌱 I’m currently learning Cryptocurrency frontend and backend development.
-- 
+## Connect With me
+- Let's have a talk on Discord !!! Use Name: Mia, tag: #1710
+- 📬 Email: zhangm9220@gmail.com
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Technology Stack
+- Solidity
+- Web3
+- Javascript
+- React
+- Redux
+- Html
+- CSS
